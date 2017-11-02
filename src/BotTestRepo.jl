@@ -11,6 +11,6 @@ Compat.UTF8String("hello")
 
 print(1,2, 3)
 
-[i for i in 1:2 if all([c for c in a])]
+# [i for i in 1:2 if all([c for c in a])]
 
 end
