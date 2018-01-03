@@ -1,3 +1,4 @@
+"""
 ```jldoctest
 julia> flow_graph = DiGraph(8) # Create a flow graph
 julia> flow_edges = [
